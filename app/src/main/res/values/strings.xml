@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的codex做完没</string>
+    <string name="author">作者 Cuistre</string>
+    <string name="channel_codex_name">Codex 完成任务</string>
+    <string name="channel_codex_desc">Codex 跑完任务时推来的提醒，手环会跟着震一下</string>
+    <string name="channel_service_name">接收服务</string>
+    <string name="channel_service_desc">保持接收 Codex 通知的常驻服务</string>
+</resources>

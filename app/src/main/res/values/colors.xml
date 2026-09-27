@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paper">#F7F3EA</color>
+    <color name="ink">#1F3D2B</color>
+    <color name="orange">#D97742</color>
+    <color name="muted">#6B6455</color>
+    <color name="card">#FFFFFF</color>
+    <color name="line">#E6DFD0</color>
+    <color name="ic_launcher_background">#1F3D2B</color>
+</resources>

@@ -1,0 +1,14 @@
+[versions]
+agp = "7.4.2"
+kotlin = "1.8.22"
+junit = "4.13.2"
+orgjson = "20240303"
+
+[libraries]
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+# 单元测试里用真的 org.json（Android 的 android.jar 里只有空壳实现）
+org-json = { group = "org.json", name = "json", version.ref = "orgjson" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
